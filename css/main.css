@@ -1,0 +1,37 @@
+h1 {
+  font-family: 'Krona One', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+.pp {
+  margin-top: 6rem;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+
+}
+
+@media only screen and (min-width: 38em) {
+
+
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+
+}
